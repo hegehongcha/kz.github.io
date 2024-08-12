@@ -30,6 +30,11 @@ Publications
 - **[Structured Information Matters: Incorporating Abstract Meaning Representation into LLMs for Improved Open-Domain Dialogue Evaluation](https://arxiv.org/abs/2404.01129)**  
   Bohao Yang, Kun Zhao, Chen Tang, Liang Zhan, Chenghua Lin  
 
+- **[Effective distillation of table-based reasoning ability from llms](https://aclanthology.org/2024.lrec-main.492/)**  
+  Bohao Yang, Chen Tang, Kun Zhao, Chenghao Xiao, Chenghua Lin  
+  *LREC-COLING 2024.
+  
+
 For more publications, please see my google scholar
 
 
