@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the Department of Electrical and Computer Engineering at the University of Pittsburgh, advised by Prof. Liang Zhan. *My research interests* are automatic evaluation metrics, text generation, and healthcare AI. Now I am focused on radiology report generation and healthcare AI.
+I am a second-year PhD student in the Department of Electrical and Computer Engineering at the University of Pittsburgh, advised by Prof. Liang Zhan. **My research interests** are automatic evaluation metrics, text generation, and healthcare AI. Now I am focused on radiology report generation and healthcare AI.
 
 Publications
 ======
