@@ -12,7 +12,6 @@ I am a second-year PhD student in the Department of Electrical and Computer Engi
 
 Publications
 ======
-## 2024
 
 - **[Evaluating Open-Domain Dialogues in Latent Space with Next Sentence Prediction and Mutual Information ](https://aclanthology.org/2023.acl-long.33/) [*Oral Presentation*]**  
   Kun Zhao, Bohao Yang, Chenghua Lin, Wenge Rong, Aline Villavicencio, Xiaohui Cui  
