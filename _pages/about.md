@@ -28,7 +28,7 @@ Publications
   [code](https://github.com/hegehongcha/LaymanRRG)
 
 - **[Structured Information Matters: Incorporating Abstract Meaning Representation into LLMs for Improved Open-Domain Dialogue Evaluation](https://arxiv.org/abs/2404.01129)**  
-  Bohao Yang*, Kun Zhao*, Chen Tang, Liang Zhan, Chenghua Lin(*Equal Contribution)  
+  Bohao Yang\*, Kun Zhao\*, Chen Tang, Liang Zhan, Chenghua Lin(*Equal Contribution)  
 
 - **[Effective distillation of table-based reasoning ability from llms](https://aclanthology.org/2024.lrec-main.492/)**  
   Bohao Yang, Chen Tang, Kun Zhao, Chenghao Xiao, Chenghua Lin  
