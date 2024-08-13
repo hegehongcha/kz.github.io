@@ -18,7 +18,7 @@ Publications
   *In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 562–574, Toronto, Canada. Association for Computational Linguistics.  
   [code](https://github.com/hegehongcha/CMN-ACL2023)
 
-- **[SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation](https://arxiv.org/abs/2405.15924)**  
+- **[SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation](https://aclanthology.org/2024.findings-acl.911/)**  
   Kun Zhao, Bohao Yang, Chen Tang, Chenghua Lin, Liang Zhan  
   *ACL 2024 Findings.  
   [code](https://github.com/hegehongcha/SLIDE-ACL2024)
