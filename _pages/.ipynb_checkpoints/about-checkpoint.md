@@ -42,4 +42,4 @@ My research primarily focuses on **Natural Language Processing (NLP)** and **Mul
 * **[Alzheimer's & Dementia]** Brain Structural Network Alterations in Alzheimer's Disease: Perspectives from Ethnicity-Specific Factors.
     * H. Tang, **Kun Zhao** (Co-first), et al.
 
-*(Please refer to the [Publications](/publications/) page for a complete list.)*
+*(Please refer to the [Publications](/kz.github.io/publications/) page for a complete list.)*
