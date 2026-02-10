@@ -1,0 +1,7 @@
+@inproceedings{xiao2025overview,
+  title={Overview of the biolaysumm 2025 shared task on lay summarization of biomedical research articles and radiology reports},
+  author={Xiao, Chenghao and Zhao, Kun and Wang, Xiao and Wu, Siwei and Yan, Sixing and Goldsack, Tomas and Ananiadou, Sophia and Al Moubayed, Noura and Zhan, Liang and Cheung, William K and others},
+  booktitle={Proceedings of the 24th Workshop on Biomedical Language Processing},
+  pages={365--377},
+  year={2025}
+}
