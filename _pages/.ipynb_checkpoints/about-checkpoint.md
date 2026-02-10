@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in **Electrical and Computer Engineering** at the **University of Pittsburgh**, supervised by [Dr. Liang Zhan](https://www.engineering.pitt.edu/people/faculty/liang-zhan/). I also work closely with [Prof. Chenghua Lin](https://chenghua-lin.github.io/) from the University of Manchester.
+I am currently a Ph.D. student in **Electrical and Computer Engineering** at the **University of Pittsburgh**, supervised by [Prof. Liang Zhan](https://www.engineering.pitt.edu/people/faculty/liang-zhan/). I also work closely with [Prof. Chenghua Lin](https://chenghua-lin.github.io/) from the University of Manchester.
 
 My research primarily focuses on **Natural Language Processing (NLP)** and **Multi-modal AI**, dedicated to building efficient, safe, and trustworthy AI systems for high-stakes domains.
 
