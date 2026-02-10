@@ -8,41 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the Department of Electrical and Computer Engineering at the University of Pittsburgh, advised by Prof. Liang Zhan. **My research interests** are automatic evaluation metrics, text generation, and healthcare AI. Now I am focused on radiology report generation and healthcare AI.
+I am a third-year PhD candidate specializing in **Large Language Models (LLMs)**, with a particular focus on **Reinforcement Learning (RL)** alignment and **Multi-modal Medical AI**. My research goal is to build efficient, safe, and trustworthy AI systems for high-stakes domains like healthcare and psychotherapy.
 
-Publications
-======
+Currently, I am working on **Radiology Report Generation** using multi-modal architectures and developing safety-aligned LLMs for **Psychotherapy** scenarios.
 
-- **[Evaluating Open-Domain Dialogues in Latent Space with Next Sentence Prediction and Mutual Information ](https://aclanthology.org/2023.acl-long.33/) [*Oral Presentation*]**  
-  Kun Zhao, Bohao Yang, Chenghua Lin, Wenge Rong, Aline Villavicencio, Xiaohui Cui  
-  *In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 562–574, Toronto, Canada. Association for Computational Linguistics.  
-  [code](https://github.com/hegehongcha/CMN-ACL2023)
+### 🔬 Research Interests
 
-- **[SLIDE: A Framework Integrating Small and Large Language Models for Open-Domain Dialogues Evaluation](https://aclanthology.org/2024.findings-acl.911/)**  
-  Kun Zhao, Bohao Yang, Chen Tang, Chenghua Lin, Liang Zhan  
-  *ACL 2024 Findings.  
-  [code](https://github.com/hegehongcha/SLIDE-ACL2024)
+My research interests lie at the intersection of NLP, RL, and Systems:
 
-- **[X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms](https://arxiv.org/abs/2406.17911)**  
-  Kun Zhao, Chenghao Xiao, Chen Tang, Bohao Yang, Kai Ye, Noura Al Moubayed, Liang Zhan, Chenghua Lin    
-  [code](https://github.com/hegehongcha/LaymanRRG)
+* **RL for LLMs/MLLMs**: Exploring advanced alignment algorithms such as **PPO, DPO, and GRPO**, specifically focusing on applying RL algorithms on medical-domain.
+* **Medical AI & Multi-modal Learning**: Developing architectures (e.g., LLaVA-Med based) for automated **Radiology Report Generation**, aiming to bridge the gap between visual perception and clinical text generation.
+* **AI for Mental Health**: Building empathetic agents for **Psychotherapy**, focusing on long-term dialogue memory, crisis intervention protocols, and safety constraints.
 
-- **[Structured Information Matters: Incorporating Abstract Meaning Representation into LLMs for Improved Open-Domain Dialogue Evaluation](https://arxiv.org/abs/2404.01129)**  
-  Bohao Yang\*, Kun Zhao\*, Chen Tang, Liang Zhan, Chenghua Lin(*Equal Contribution)  
+### 🔥 News
 
-- **[Effective distillation of table-based reasoning ability from llms](https://aclanthology.org/2024.lrec-main.492/)**  
-  Bohao Yang, Chen Tang, Kun Zhao, Chenghao Xiao, Chenghua Lin  
-  *LREC-COLING 2024.
-  
-- **[R-GenIMA: Integrating Neuroimaging and Genetics with Interpretable Multimodal AI for Alzheimer's Disease Progression](https://arxiv.org/abs/2512.18986)**  
-  Kun Zhao, Siyuan Dai, Yingying Zhang, Guodong Liu, Pengfei Gu, Chenghua Lin, Paul M. Thompson, Alex Leow, Heng Huang, Lifang He, Liang Zhan, Haoteng Tang (for the Alzheimer's Disease Neuroimaging Initiative (ADNI) Project)
+* **[2026.02]** Developing a safety-aligned Long-Context Psychotherapy Agent with advanced dialogue management.
+* **[2026.01]** Working on a manuscript regarding *Radiology Report Generation* targeting **ACL 2026**.
+* **[2025.11]** Conducting research on **GRPO** (Group Relative Policy Optimization) to mitigate mode collapse in RLHF.
 
-- **[Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting](https://arxiv.org/abs/2601.03321)**  
-  Kun Zhao, Siyuan Dai, Pan Wang, Jifeng Song, Hui Ji, Chenghua Lin, Liang Zhan, Haoteng Tang 
- 
-  
-  
+### 🛠️ Technical Stack
 
-For more publications, please see my google scholar
-
+* **Frameworks**: PyTorch, Hugging Face Transformers, vLLM, DeepSpeed, trl, TinyLlava, Llama-Factory.
+* **Key Skills**: LLM Pre-training/Fine-tuning, RLHF Implementation, Multi-modal Fusion, Distributed Training.
 
