@@ -43,3 +43,8 @@ My research primarily focuses on **Natural Language Processing (NLP)** and **Mul
     * H. Tang, **Kun Zhao** (Co-first), et al.
 
 *(Please refer to the [Publications](/kz.github.io/publications/) page for a complete list.)*
+
+<br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hegehongcha.kz.github.io">
+</div>
