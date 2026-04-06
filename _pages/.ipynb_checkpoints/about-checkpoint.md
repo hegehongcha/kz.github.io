@@ -22,7 +22,7 @@ My research primarily focuses on **Natural Language Processing (NLP)** and **Mul
 * **Dialogue Evaluation**: Developing robust evaluation metrics and frameworks (combining Small and Large Language Models) to assess open-domain dialogue quality in latent spaces.
 
 ### 🔥 News
-
+* **[2026.04]** Our paper "X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms" accepted to **ACL 2026 Findings**
 * **[2026.02]** Working on "Aligning Findings with Diagnosis," a self-consistent RL framework for trustworthy radiology reporting.
 * **[2025.12]** Working on "**R-GenIMA**," a novel framework integrating Neuroimaging and Genetics with interpretable Multi-modal AI for Alzheimer’s Disease progression.
 * **[2025.11]** One paper accepted to **EMNLP 2025** regarding structured information in dialogue evaluation.
@@ -43,3 +43,8 @@ My research primarily focuses on **Natural Language Processing (NLP)** and **Mul
     * H. Tang, **Kun Zhao** (Co-first), et al.
 
 *(Please refer to the [Publications](/kz.github.io/publications/) page for a complete list.)*
+
+<br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hegehongcha.kz.github.io">
+</div>
