@@ -7,25 +7,16 @@ redirect_from:
   - /resume
 ---
 
-Choose the version that best matches your interest. Both present the same academic record, with research positioning and project emphasis tailored to the two directions of my work.
+This academic CV presents my complete research record across LLM &amp; NLP and Medical AI.
 
-<div class="cv-grid">
+<div class="cv-grid cv-grid--single">
   <section class="cv-card">
-    <span class="track-label">LLM &amp; NLP</span>
-    <h2>LLM &amp; NLP CV</h2>
-    <p>Evaluation of open-ended text generation, RL post-training, multimodal reasoning, and efficient LLM systems.</p>
+    <span class="track-label">ACADEMIC CV</span>
+    <h2>Kun Zhao — Academic CV</h2>
+    <p>Reliable evaluation of open-ended generation, LLM post-training and reinforcement learning, multimodal reasoning, and Medical AI.</p>
     <p class="cv-actions">
-      <a class="btn btn--primary" href="{{ '/files/Kun_Zhao_LLM_CV.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-eye"></i> View PDF</a>
-      <a class="btn btn--inverse" href="{{ '/files/Kun_Zhao_LLM_CV.pdf' | relative_url }}" download><i class="fas fa-download"></i> Download</a>
-    </p>
-  </section>
-  <section class="cv-card">
-    <span class="track-label">Medical AI</span>
-    <h2>Medical AI CV</h2>
-    <p>Radiology generation, medical multimodal learning, imaging–genomics, and interpretable brain-network modeling.</p>
-    <p class="cv-actions">
-      <a class="btn btn--primary" href="{{ '/files/Kun_Zhao_Medical_AI_CV.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-eye"></i> View PDF</a>
-      <a class="btn btn--inverse" href="{{ '/files/Kun_Zhao_Medical_AI_CV.pdf' | relative_url }}" download><i class="fas fa-download"></i> Download</a>
+      <a class="btn btn--primary" href="{{ '/files/Kun_Zhao_Academic_CV.pdf' | relative_url }}" target="_blank" rel="noopener"><i class="fas fa-eye"></i> View PDF</a>
+      <a class="btn btn--inverse" href="{{ '/files/Kun_Zhao_Academic_CV.pdf' | relative_url }}" download><i class="fas fa-download"></i> Download</a>
     </p>
   </section>
 </div>

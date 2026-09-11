@@ -91,6 +91,10 @@
   margin: 1rem 0 1.25rem;
 }
 
+.cv-grid--single {
+  grid-template-columns: minmax(0, 760px);
+}
+
 .research-card,
 .cv-card {
   padding: 1.1rem 1.2rem;
