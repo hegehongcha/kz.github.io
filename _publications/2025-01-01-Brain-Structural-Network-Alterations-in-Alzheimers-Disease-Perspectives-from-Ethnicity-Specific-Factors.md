@@ -5,6 +5,7 @@ areas: [medical]
 permalink: /publication/2025-01-01-Brain-Structural-Network-Alterations-in-Alzheimers-Disease-Perspectives-from-Ethnicity-Specific-Factors
 date: 2025-01-01
 venue: 'Alzheimer&apos;s &amp; Dementia, 2025 (2025 JIF: 12.8)'
-citation: ' Haoteng Tang,  Kun Zhao,  Guodong Liu,  Paul Thompson,  Heng Huang,  Alex Leow,  Liang Zhan, &quot;Brain Structural Network Alterations in Alzheimer&amp;apos;s Disease: Perspectives from Ethnicity-Specific Factors.&quot; Alzheimer&amp;apos;s &amp;amp; Dementia, 2025.'
+paperurl: 'https://doi.org/10.1002/alz70856_101821'
+citation: 'Haoteng Tang, Kun Zhao, Guodong Liu, Paul M. Thompson, Heng Huang, Alex Leow, Liang Zhan, &quot;Brain Structural Network Alterations in Alzheimer&apos;s Disease: Perspectives from Ethnicity-Specific Factors.&quot; Alzheimer&apos;s &amp; Dementia, 21:e101821, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Brain+Structural+Network+Alterations+in+Alzheimer&#x27;s+Disease:+Perspectives+from+Ethnicity+Specific+Factors){:target="_blank"} for full citation
+[Access the paper](https://doi.org/10.1002/alz70856_101821){:target="_blank"}.
