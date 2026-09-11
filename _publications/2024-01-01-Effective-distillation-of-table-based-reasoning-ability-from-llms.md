@@ -1,6 +1,7 @@
 ---
 title: "Effective distillation of table-based reasoning ability from llms"
 collection: publications
+areas: [llm]
 permalink: /publication/2024-01-01-Effective-distillation-of-table-based-reasoning-ability-from-llms
 date: 2024-01-01
 venue: 'Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)'

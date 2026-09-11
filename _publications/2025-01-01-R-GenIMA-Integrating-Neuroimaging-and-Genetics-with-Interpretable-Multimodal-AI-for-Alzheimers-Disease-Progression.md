@@ -1,6 +1,7 @@
 ---
 title: "Interpretable Multimodal Learning for Integrating Neuroimaging and Genetic Data in Alzheimer's Disease"
 collection: publications
+areas: [medical]
 permalink: /publication/2025-01-01-R-GenIMA-Integrating-Neuroimaging-and-Genetics-with-Interpretable-Multimodal-AI-for-Alzheimers-Disease-Progression
 date: 2026-01-01
 venue: 'Frontiers in Radiology, 2026 (2025 JIF: 4.0)'

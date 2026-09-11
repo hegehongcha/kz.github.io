@@ -1,6 +1,7 @@
 ---
 title: "X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation"
 collection: publications
+areas: [medical]
 permalink: /publication/2024-01-01-X-ray-Made-Simple-Radiology-Report-Generation-and-Evaluation-with-Laymans-Terms
 date: 2026-04-01
 venue: 'Findings of the Association for Computational Linguistics: ACL 2026'

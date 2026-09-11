@@ -1,6 +1,7 @@
 ---
 title: "Who Matters More in Radiology Report Generation: Vision Encoders or Language Models?"
 collection: publications
+areas: [medical]
 permalink: /publication/2025-01-02-Who-Matters-More-in-Radiology-Report-Generation-Vision-Encoders-or-Language-Models
 date: 2025-01-02
 venue: 'SAIMBio Workshop at IEEE ICDM Workshops 2025'

@@ -1,6 +1,7 @@
 ---
 title: "Interpretable Spatio-Temporal Embedding for Brain Structural-Effective Network with Ordinary Differential Equation"
 collection: publications
+areas: [medical]
 permalink: /publication/2024-01-02-Interpretable-Spatio-Temporal-Embedding-for-Brain-Structural-Effective-Network-with-Ordinary-Differential-Equation
 date: 2024-01-02
 venue: 'MICCAI 2024'

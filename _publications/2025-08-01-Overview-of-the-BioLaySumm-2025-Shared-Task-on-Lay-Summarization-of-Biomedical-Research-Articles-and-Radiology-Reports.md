@@ -1,6 +1,7 @@
 ---
 title: "Overview of the BioLaySumm 2025 Shared Task on Lay Summarization of Biomedical Research Articles and Radiology Reports"
 collection: publications
+areas: [medical]
 permalink: /publication/2025-08-01-Overview-of-the-BioLaySumm-2025-Shared-Task-on-Lay-Summarization-of-Biomedical-Research-Articles-and-Radiology-Reports
 date: 2025-08-01
 venue: 'Proceedings of the 24th Workshop on Biomedical Language Processing'

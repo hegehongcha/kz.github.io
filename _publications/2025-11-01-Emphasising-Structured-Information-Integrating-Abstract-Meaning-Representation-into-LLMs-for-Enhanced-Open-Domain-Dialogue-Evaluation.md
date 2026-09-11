@@ -1,6 +1,7 @@
 ---
 title: "Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation"
 collection: publications
+areas: [llm]
 permalink: /publication/2025-11-01-Emphasising-Structured-Information-Integrating-Abstract-Meaning-Representation-into-LLMs-for-Enhanced-Open-Domain-Dialogue-Evaluation
 date: 2025-11-01
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2025'
