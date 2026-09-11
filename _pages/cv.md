@@ -7,13 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Choose the version that best matches your interest:
 
-<a href="https://github.com/hegehongcha/kz.github.io/blob/master/files/CV.pdf" target="_blank" style="font-size: 1.2em; font-weight: bold; color: #d9534f;">
-  <i class="fas fa-file-pdf"></i> Download full CV (PDF)
-</a>
+<p>
+  <a class="btn btn--primary" href="{{ '/files/Kun_Zhao_LLM_CV.pdf' | relative_url }}" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf"></i> LLM &amp; NLP CV
+  </a>
+  <a class="btn btn--primary" href="{{ '/files/Kun_Zhao_Medical_AI_CV.pdf' | relative_url }}" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf"></i> Medical AI CV
+  </a>
+</p>
 
-<br><br>
+Both versions present the same academic record, with research positioning and project emphasis tailored to the two directions of my work.
+
+<br>
 
 <!-- Education
 ======

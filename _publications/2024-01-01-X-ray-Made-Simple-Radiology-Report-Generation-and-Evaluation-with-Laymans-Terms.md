@@ -1,9 +1,10 @@
 ---
-title: "X-ray Made Simple: Radiology Report Generation and Evaluation with Layman&apos;s Terms"
+title: "X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation"
 collection: publications
 permalink: /publication/2024-01-01-X-ray-Made-Simple-Radiology-Report-Generation-and-Evaluation-with-Laymans-Terms
-date: 2024-01-01
-venue: 'arXiv e-prints'
-citation: ' Kun Zhao,  Chenghao Xiao,  Chen Tang,  Bohao Yang,  Noura Al,  Liang Zhan,  Chenghua Lin, &quot;X-ray Made Simple: Radiology Report Generation and Evaluation with Layman&amp;apos;s Terms.&quot; arXiv e-prints, 2024.'
+date: 2026-04-01
+venue: 'Findings of the Association for Computational Linguistics: ACL 2026'
+paperurl: 'https://aclanthology.org/2026.findings-acl.1726/'
+citation: 'Kun Zhao, Chenghao Xiao, Sixing Yan, Haoteng Tang, William K. Cheung, Noura Al Moubayed, Liang Zhan, Chenghua Lin, &quot;X-ray Made Simple: Lay Radiology Report Generation and Robust Evaluation.&quot; Findings of the Association for Computational Linguistics: ACL 2026, 2026.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=X+ray+Made+Simple:+Radiology+Report+Generation+and+Evaluation+with+Layman&#x27;s+Terms){:target="_blank"} for full citation
+This work introduces refined lay radiology datasets, semantics-based evaluation, and lay-guided training. [Access the paper](https://aclanthology.org/2026.findings-acl.1726/){:target="_blank"}.
